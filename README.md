@@ -40,7 +40,7 @@ The following software tools are required for setting up the project:
 
 ## Circuit Diagram
 
-Insert a detailed circuit diagram illustrating the connections between the components. Clearly indicate the pin assignments for the AT89S52 microcontroller, IR sensors, and LCD display. You may use software like Proteus or draw the circuit diagram manually.
+   Refer the Files
 
 ## Installation
 
