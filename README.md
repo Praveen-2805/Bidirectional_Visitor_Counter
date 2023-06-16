@@ -39,7 +39,7 @@ The following software tools are required for setting up the project:
 
 ## Circuit Diagram
 
-   Refer the Files
+   Refer the Repositary Files
 
 ## Installation
 
