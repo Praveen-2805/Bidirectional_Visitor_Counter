@@ -36,7 +36,6 @@ The following software tools are required for setting up the project:
 
 - Keil uVision IDE (Integrated Development Environment)
 - AT89S52 microcontroller library for Keil uVision
-- [Optional] Git (for version control)
 
 ## Circuit Diagram
 
